@@ -1,2 +1,7 @@
 # TestReaction
-Mini-game to test your reaction
+Мини-игра для тестирования вашей реакции.
+## В проекте использовались языки:
+HTML;
+CSS;
+JavaScript.
+
